@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Proc\Proc\bin\Debug\Proc.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Proc\Proc\obj\Debug\Proc.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Proc\Proc\obj\Debug\Proc.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Proc\Proc\obj\Debug\Proc.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Proc\Proc\obj\Debug\Proc.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Proc\Proc\bin\Debug\Proc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Proc\Proc\bin\Debug\Proc.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Proc\Proc\obj\Debug\Proc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Proc\Proc\obj\Debug\Proc.pdb

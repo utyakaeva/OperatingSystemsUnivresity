@@ -1,0 +1,25 @@
+c:\users\user\documents\visual studio 2015\Projects\ос_2\ос_2\bin\Debug\ос_2.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\obj\Debug\ос_2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\obj\Debug\ос_2.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\obj\Debug\ос_2.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\obj\Debug\ос_2.Form3.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\obj\Debug\ос_2.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\obj\Debug\ос_2.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\bin\Debug\ос_2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\bin\Debug\ос_2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\obj\Debug\ос_2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ос_2\ос_2\obj\Debug\ос_2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\bin\Debug\ос_2.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\bin\Debug\ос_2.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\bin\Debug\ос_2.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.Form3.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.csproj.GenerateResource.Cache
+C:\Users\Настя Утякаева\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\bin\Debug\ос_2.exe.config
+C:\Users\Настя Утякаева\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.exe
+C:\Users\Настя Утякаева\Documents\Visual Studio 2015\Projects\OS_2\ос_2\ос_2\obj\Debug\ос_2.pdb

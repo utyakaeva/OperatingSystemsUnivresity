@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\bin\Debug\Процессы.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\obj\Debug\Процессы.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\obj\Debug\Процессы.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\obj\Debug\Процессы.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\obj\Debug\Процессы.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\bin\Debug\Процессы.exe
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\bin\Debug\Процессы.pdb
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\obj\Debug\Процессы.exe
+c:\users\user\documents\visual studio 2015\Projects\Процессы\Процессы\obj\Debug\Процессы.pdb
